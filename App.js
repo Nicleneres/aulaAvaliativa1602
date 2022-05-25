@@ -6,6 +6,7 @@ import Descricao from './componentes/Descricao'
 export default function App() {
   return (
     <View style={estilos.container}>
+      <Text>Nilcle</Text>
       <Logo/>
       <Descricao/>
     </View>
